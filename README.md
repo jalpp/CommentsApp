@@ -7,10 +7,13 @@
 
 # Sources
 [React Native Site](https://reactnative.dev/)
+[Try it yourself!](https://cnd579.csb.app/)
 
 # Comments in action!
 
-![image](https://www.linkpicture.com/q/Screen-Shot-2022-05-20-at-5.23.24-PM.png)(https://www.linkpicture.com/view.php?img=LPic6288071edfefe451094336)
+![image](https://www.linkpicture.com/q/Screen-Shot-2022-05-20-at-5.23.24-PM.png)
+
+
 
 
 
